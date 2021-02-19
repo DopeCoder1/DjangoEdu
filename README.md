@@ -1,0 +1,2 @@
+# djangoEdu
+ programmin in python 
